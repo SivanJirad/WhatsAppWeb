@@ -1,5 +1,5 @@
 # Message App
-The client side of a message app allowing you to send messages to other contacts.
+The client side of a message app allowing you to send messages to other contacts.__
 Developed by Sivan Jhirad & Ofri Zangi.
 
 ## Set Up:
