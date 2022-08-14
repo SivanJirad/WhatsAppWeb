@@ -11,10 +11,10 @@ This app uses react, react-boorstrap, react-router-dom and signalR. In order to 
 4. npm install @microsoft/signalr
 
 ## How To Run?
-pull all files from git
-install all packages using the commands above
-run the server - https://github.com/SivanJirad/WhatsappProject
-run the command - npm start
+1. pull all files from git
+2. install all packages using the commands above
+3. run the server - https://github.com/SivanJirad/WhatsAppServer-.git
+4. run the command - npm start
 
 ## Important To Read:
 Whenever you register you must enter a password with a least 8 characters, at least one number and a letter.
